@@ -1,2 +1,0 @@
-# myMicroservice
-hello world microservice
